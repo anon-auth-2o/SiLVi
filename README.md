@@ -6,8 +6,6 @@ By supporting precise annotations of both actions and interactions across indivi
 
 You can read the documentation [here](https://anon-auth-2o.github.io/SiLVi).
 
-If you use SiLVi in your research, please cite it.
-
 ![image](./docs/assets/screenshots/silvi_screenshot_label_with_bounding_box.jpg)
 
 ![image](docs/assets/screenshots/silvi_screenshot_change_name.jpg)
