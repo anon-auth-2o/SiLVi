@@ -4,4 +4,4 @@ nav_order: 20
 ---
 # Credits 
 
-Credits and acknowledgements are removed for this anoymous version of the website.
+Credits and acknowledgements are removed for this anonymous version of the website.
