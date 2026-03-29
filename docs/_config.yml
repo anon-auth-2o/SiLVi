@@ -4,7 +4,7 @@ theme: just-the-docs
 color_scheme: dark_orange
 logo: assets/images/silvi_doc_logo_white.png
 favicon_ico: assets/images/silvi.ico
-url: https:/anon-auth-2o.github.io/silvi
+url: https://anon-auth-2o.github.io/silvi
 defaults:
   -
     scope:
@@ -12,4 +12,4 @@ defaults:
     values:
       layout: "default"
 aux_links:
-  '<i class="bi bi-github me-1"></i>GitHub Repository': https:/anon-auth-2o.github.io/silvi
+  '<i class="bi bi-github me-1"></i>GitHub Repository': https://anon-auth-2o.github.io/silvi
