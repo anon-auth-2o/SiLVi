@@ -18,7 +18,7 @@ Linux installers are available for Debian- and RPM-based distributions on both x
 For Ubuntu and other Debian-based Linux distributions, download the deb file compatible with your computer architecture. 
 
 <div class="text-center mb-3">
-  <a class="btn btn-primary" href="https://github.com/ecker-lab/SiLVi/releases/download/v0.5.2-alpha/silvi_0.5.2_amd64.deb" role="button"><i class="bi bi-ubuntu"></i> Download for Debian/Ubuntu x64</a>
+  <a class="btn btn-primary" href="https://github.com/anon-auth-2oSiLVi/releases/download/v0.5.2-alpha/silvi_0.5.2_amd64.deb" role="button"><i class="bi bi-ubuntu"></i> Download for Debian/Ubuntu x64</a>
 </div>
 
 <div class="text-center mb-3">
