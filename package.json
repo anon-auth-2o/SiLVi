@@ -2,7 +2,7 @@
   "name": "SiLVi",
   "version": "0.5.2",
   "description": "Simple Interface for Labeling Video Interactions",
-  "repository": "github:ozan-kanbertay/SiLVi",
+  "repository": "github:anon-auth-2o/SiLVi",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -11,7 +11,7 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish"
   },
-  "author": "Ozan Kanbertay",
+  "author": "Anonymous Authors,
   "license": "ISC",
   "devDependencies": {
     "@electron-forge/cli": "^7.4.0",
