@@ -4,7 +4,7 @@ SiLVi (**S**imple **I**nterface for **L**abelling **V**ideo **I**nteractions) is
 
 By supporting precise annotations of both actions and interactions across individuals, SiLVi empowers researchers to move beyond individual-centric behavioral models toward richer representations of social behavior. Apart from this main contribution, SiLVi also allows for labeling individual IDs and annotating or correcting tracks.
 
-You can read the documentation [here](https://anon-auth-2o.github.io/silvi).
+You can read the documentation [here](https://anon-auth-2o.github.io/SiLVi).
 
 If you use SiLVi in your research, please cite it.
 
