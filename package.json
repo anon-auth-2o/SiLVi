@@ -11,7 +11,7 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish"
   },
-  "author": "Anonymous Authors,
+  "author": "Anonymous Authors",
   "license": "ISC",
   "devDependencies": {
     "@electron-forge/cli": "^7.4.0",
