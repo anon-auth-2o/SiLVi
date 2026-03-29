@@ -8,8 +8,8 @@ const commonLinuxConfig = {
   title: 'SiLVi',
   description: 'Simple Interface for Labeling Video Interactions',
   productDescription: 'SiLVi enables researchers to annotate behaviors and interactions directly within video data, generating structured outputs suitable for training and validating computer vision models.',
-  homepage: 'https://silvi.eckerlab.org',
-  maintainer: 'Ozan Kanbertay',
+  homepage: 'https:/anon-auth-2o.github.io/silvi',
+  maintainer: 'Anonymous Author',
   icon: 'icons/icon.png',
   categories: [ 'Science', 'Video' ],
   section: 'science',
@@ -40,7 +40,7 @@ const commonLinuxConfig = {
       name: '@electron-forge/maker-squirrel',
       config: (arch) => ({
         // An URL to an ICO file to use as the application icon (displayed in Control Panel > Programs and Features).
-        iconUrl: 'https://raw.githubusercontent.com/ozan-kanbertay/silvi/8ed93440afd5bee3e7e3e75ecfaed5b394bb4015/icons/icon.ico',
+        iconUrl: 'https://raw.githubusercontent.com/anon-auth-2o/silvi/8ed93440afd5bee3e7e3e75ecfaed5b394bb4015/icons/icon.ico',
         // The ICO file to use as the icon for the generated Setup.exe
         setupIcon: 'icons/icon.ico',
       }),
