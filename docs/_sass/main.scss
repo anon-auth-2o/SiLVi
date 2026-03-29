@@ -1,0 +1,28 @@
+
+// Import bootstrap and bootstrap icons
+// @import "../assets/scss/bootstrap-icons.scss";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css");
+
+.windows-screenshot {
+  width: 300px;
+  height: auto;
+
+}
+
+.app-screenshot {
+  max-width: 1080px;
+  min-width: 300px;
+  width: 100%;
+  height: auto;
+  display: block;
+
+}
+
+.help-video {
+  min-width: 240px;
+  width: 100%;
+  height: auto;
+  max-width: 720px;
+  display: block;
+}
